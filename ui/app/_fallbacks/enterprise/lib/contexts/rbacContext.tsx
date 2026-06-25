@@ -26,6 +26,7 @@ export enum RbacResource {
   Governance = "Governance",
   RoutingRules = "RoutingRules",
   PIIRedactor = "PIIRedactor",
+  CircuitBreaker = "CircuitBreaker",
   PromptRepository = "PromptRepository",
   PromptDeploymentStrategy = "PromptDeploymentStrategy",
   SkillsRepository = "SkillsRepository",
